@@ -16,13 +16,14 @@ import Style1 from "./components/04-styles/style1";
 import Style2 from "./components/04-styles/style2";
 import Style3 from "./components/04-styles/style3";
 import Style4 from "./components/04-styles/style4"; 
-import Greetings from "./components/05-props-1/greetings";*/
-import Products from "./components/06-props-2/products";
+import Greetings from "./components/05-props-1/greetings";
+import Products from "./components/06-props-2/products";*/
+import Image from "./components/09-image/image";
 
 const App = () => {
   return(
     <div>
-      <Products/>
+      <Image/>
     </div>
   )
 }
